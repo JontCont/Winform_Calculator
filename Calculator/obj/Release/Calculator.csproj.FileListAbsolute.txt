@@ -1,0 +1,16 @@
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\bin\Release\Bunifu.Core.dll
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\LeomonRD\source\repos\Calculator\Calculator\obj\Release\Calculator.pdb
